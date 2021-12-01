@@ -1,4 +1,4 @@
-#GPUfix
+# GPUfix
 Change the linux kernel default config
 Maximise the AMD gpu performance by setting higher clock speed
 
